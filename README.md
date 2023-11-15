@@ -5,6 +5,8 @@
 Showcase web development skills to potential employer by demonstrating that I can build a website portfolio.
 The portfolio is dual-purpose and will showcase recent projects to display a variety of programming languages and concepts.
 
+![Portfolio](portfolio.png)
+
 
 ## Table of Contents
 
