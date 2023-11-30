@@ -34,6 +34,8 @@ import calendar from "./calendar.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import gametourney from "./game-tourney-hub.png";
+
 export {
   logo,
   backend,
@@ -67,4 +69,5 @@ export {
   calendar,
   jobit,
   tripguide,
+  gametourney,
 };

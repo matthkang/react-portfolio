@@ -15,6 +15,7 @@ import {
     moviefinder,
     calendar,
     threejs,
+    gametourney
   } from "../assets";
   
   export const navLinks = [
@@ -169,6 +170,32 @@ import {
       image: calendar,
       source_code_link: "https://github.com/Pixls112/Time-Management-Planner",
       deployment_link: "https://protected-taiga-58244-3710fb729053.herokuapp.com/"
+    },
+    {
+      name: "Game Tourney Hub",
+      description:
+      "Create a competitive environment to connect players around the world, allowing them to host and join video game tournaments.",
+      tags: [
+        {
+          name: "react",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "graphQL",
+          color: "green-text-gradient",
+        },
+        {
+          name: "node.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongoDB",
+          color: "white-text-gradient",
+        },
+      ],
+      image: gametourney,
+      source_code_link: "https://github.com/matthkang/Gaming-Tournament-Hub",
+      deployment_link: "https://game-tourney-hub-8015c3047dd6.herokuapp.com/"
     },
   ];
   
